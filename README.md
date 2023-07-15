@@ -3,7 +3,7 @@
 
 <img src="https://github.com/paulokeyo/failedRDPAttacks/blob/main/assets/Azure%20resources.png?raw=true"/>
 
-A Windows 10 VM was setup and acted as our public facing VM to the internet. Log Analytics workspace was used to collect Windows Security events from the VM. A custom alert rule was created in Microsoft Sentinel SIEM which analyzed the logs for the VM in the Log Analytics workspace  
+A Windows 10 VM was setup and acted as our public facing VM to the internet. Log Analytics workspace was used to collect Windows Security events from the VM. A custom alert rule was created in Microsoft Sentinel SIEM which analyzed the logs from the VM in the Log Analytics workspace  
 
 <img src="https://github.com/paulokeyo/failedRDPAttacks/blob/main/assets/SIEM%20alert%20rule.jpg?raw=true"/>
 
